@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  skillName: MyString
+  Profile: one
+  assignee: MyString
+
+two:
+  skillName: MyString
+  Profile: two
+  assignee: MyString
